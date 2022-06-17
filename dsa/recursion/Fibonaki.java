@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
-
 /*
 Print Fibonacii Series . e.g N = 10 
  */
